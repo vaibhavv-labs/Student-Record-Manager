@@ -63,6 +63,7 @@ Student Class (OOP handles data)
 ## 🚀 How to Run
 
 git clone https://github.com/vaibhavv-labs/Student-Record-Manager.git
+
 cd student-record-manager  
 python main.py  
 
